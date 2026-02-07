@@ -34,3 +34,8 @@ Access to the private repository will be granted within 24 hours.
 ## Notes
 - Payments sent on the wrong network are not refundable.
 - This is a digital product. No physical item will be shipped.
+- 
+- ## How to Purchase
+1. Open an Issue on this repository to confirm the purchase.
+2. After confirmation, complete the payment.
+3. You will receive access to the files within 24 hours.
