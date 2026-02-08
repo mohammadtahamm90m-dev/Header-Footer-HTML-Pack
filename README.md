@@ -1,5 +1,5 @@
 # Header & Footer HTML Pack
-
+![Header & Footer Preview](IMG-heder and footer.jpg)
 A clean and modern header & footer HTML pack suitable for all kinds of websites.
 
 ## Features
